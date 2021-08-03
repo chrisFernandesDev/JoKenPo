@@ -31,11 +31,11 @@ export default class Jogo extends React.Component {
         if (escolhaApp == "pedra") {
             if (escolhaUser == "pedra") {
                 resultado = "Empate";
-                alert(
-                    <Image
-                        source={require('./img/empate.png')}
-                    />
-                )
+                // alert(
+                //     <Image
+                //         source={require('./img/empate.png')}
+                //     />
+                // )
             }
             if (escolhaUser == "papel") {
                 resultado = "User Ganhou";
