@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Jokenpo2",
+    "slug": "Jokenpo2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Jokenpo2"
+}
