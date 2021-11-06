@@ -1,11 +1,22 @@
 {
   "expo": {
-    "name": "Jokenpo2",
-    "slug": "Jokenpo2",
+    "name": "Jokenpo",
+    "slug": "Jokenpo",
     "version": "1.0.0",
+    "orientation": "portrait",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.chrisfernandes.Jokenpo"
+    },
+    "web": {
+      "favicon": "./src/componentes/img/JoKenPoLogo.png"
+    },
+    "android": {
+      "package": "com.chrisfernandes.Jokenpo"
+    }
   },
-  "name": "Jokenpo2"
+  "name": "Jokenpo"
 }

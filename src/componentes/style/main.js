@@ -22,6 +22,12 @@ export const styles = StyleSheet.create(
             alignSelf: 'center', 
             opacity: 0.5,
         },
+        imgLogo2: {
+            width: 480,
+            height: 670,
+            alignSelf: 'center', 
+            opacity: 0.5,
+        },
         
         viewConteudo:{
             flex: 9,
